@@ -47,6 +47,9 @@ Provides contact information like:
 
 ---
 
+![Portfolio](https://github.com/user-attachments/assets/a041e695-61b3-4615-9725-d99997910b95)
+
+
 ## How to Run 🏃‍♂️
 1. Clone the repository:
    ```bash
