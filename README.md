@@ -33,9 +33,9 @@ Showcases the projects you’ve worked on, with links to demos or GitHub reposit
 
 ### Skills 💡
 A list of technical and soft skills you possess, such as:
-- Programming languages (e.g., Python, Java, VB.NET)
-- Frameworks (e.g., Spring Boot)
-- Tools (e.g., PostgreSQL, Git)
+- Programming languages (e.g., Python, Java)
+- Frameworks (e.g., React)
+- Tools (e.g.,  Git)
 
 ---
 
