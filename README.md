@@ -47,7 +47,8 @@ Provides contact information like:
 
 ---
 
-![Portfolio]![Screenshot (799)](https://github.com/user-attachments/assets/5c72008d-8bff-4f14-a3e1-af30620ff7d9)
+![Portfolio](https://github.com/user-attachments/assets/a886e711-3ecd-4757-8d5a-89ac47a28ba4)
+
 
 
 
