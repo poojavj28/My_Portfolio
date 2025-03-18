@@ -47,7 +47,8 @@ Provides contact information like:
 
 ---
 
-![Portfolio](https://github.com/user-attachments/assets/a041e695-61b3-4615-9725-d99997910b95)
+![Portfolio](https://github.com/user-attachments/assets/858355a7-db08-4d56-8960-e799f424d585)
+
 
 
 ## How to Run 🏃‍♂️
